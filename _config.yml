@@ -30,14 +30,14 @@ profile_image: ./assets/images/profile-image/elliot.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: ./assets/documents/Routier_Elliot_CV_Bath_MechEng.pdf # https://drive.google.com/file/d/1SY625bdNk7aXD_J4Pb-eWsEtZD1CGjgz/view?usp=drive_link
+resume-url: /assets/documents/Routier_Elliot_CV_Bath_MechEng.pdf # https://drive.google.com/file/d/1SY625bdNk7aXD_J4Pb-eWsEtZD1CGjgz/view?usp=drive_link
 
 
 # Set up external links - this will show up as small icons next to your name.
 external-links:
-  linkedin: https://www.linkedin.com/in/elliot-routier/
-  github: https://github.com/elliotroutier
-  outlook: mailto:er909@bath.ac.uk
+  linkedin: elliot-routier
+  github: elliotroutier
+  outlook: er909@bath.ac.uk
   #stackoverflow:   https://stackoverflow.com/users/your-slug
   #medium:          https://medium.com/@your-slug
   #x-twitter:       https://x.com/your-slug 
