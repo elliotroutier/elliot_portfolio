@@ -13,12 +13,20 @@ skills:
   - DFMEA
   - FTA (Fault Tree Analysis)
 
-main-image: /machinedesign.jpg
+main-image: /machinedesign.png
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
+# Objectives
+The objectives for this was project were to 
+1. Unpack cylindrical battery cells
+2. Sort them based on polarity
+3. Place them into carriers
+4. Spot-weld copper strips as electrical connections
+5. Eject the completed modules
+6. Complete one cycle in under 200 seconds
+7. Limited budget of £20,000
+8. 
 ## Header 2  
 Use this for the header of each section
 ### Header 3 
