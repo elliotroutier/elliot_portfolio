@@ -17,6 +17,8 @@ main-image: /product_design.png
 # Objectives
 To select a real-world user scenario and developed a product to address the gap in 
 the market to assist elderly/handicapped individuals entering and exiting their vehicles.
+
+### View the full brief here
 <iframe src="/assets/documents/product_design_brief.pdf" width="100%" height="600"></iframe>
 
 ## Key Deliverables
