@@ -37,15 +37,17 @@ resume-url: https://drive.google.com/file/d/1SY625bdNk7aXD_J4Pb-eWsEtZD1CGjgz/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin:  https://www.linkedin.com/in/elliot-routier/
-  stackoverflow:   # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
-  outlook:  er909@bath.ac.uk
+  github:    https://github.com/elliotroutier
+  outlook:   mailto:er909@bath.ac.uk
+  #stackoverflow:   https://stackoverflow.com/users/your-slug
+  #medium:          https://medium.com/@your-slug
+  #x-twitter:       https://x.com/your-slug 
+  #threads:         https://threads.net/@your-slug
+  #instagram:       https://instagram.com/your-slug
+  #youtube:         https://youtube.com/@your-slug
+  #discord:         https://discord.com/users/your-slug
+  #bluesky:         https://bsky.app/profile/your-slug
+
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
