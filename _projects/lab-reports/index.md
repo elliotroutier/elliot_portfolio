@@ -23,12 +23,12 @@ Compared the real and ideal Rankine cycles using a TD 1050 steam motor. Analysed
 ---
 
 ## View Steam Motor Instruction Sheet
-<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Steam Motor Instruction Sheet</a>
+<a class="btn" href="/assets/documents/steam_motor_lab.pdf" target="_blank">📄 View Steam Motor Instruction Sheet</a>
 
 ---
 
 ## View Steam Motor Report
-<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Steam Motor Report</a>
+<a class="btn" href="/assets/documents/Routier_Elliot_Lab_Report_Steam_Motor" target="_blank">📄 View Steam Motor Report</a>
 
 ---
 
@@ -38,12 +38,12 @@ Investigated how pressure distribution and lift coefficient vary with angle of a
 ---
 
 ## View Aerofoil Instruction Sheet
-<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Aerofoil Instruction Sheet</a>
+<a class="btn" href="/assets/documents/aerofoil_lab_sheet.pdf" target="_blank">📄 View Aerofoil Instruction Sheet</a>
 
 ---
 
 ## View Aerofoil report
-<a class="btn" href="/assets/documents/motor_controller.pdf" target="_blank">📄 View Aerofoil Report</a>
+<a class="btn" href="/assets/documents/er909_Elliot_Routier_Aerofoil_Lab_Report.pdf" target="_blank">📄 View Aerofoil Report</a>
 
 ---
 
