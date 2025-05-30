@@ -35,9 +35,9 @@ resume-url: https://drive.google.com/file/d/1SY625bdNk7aXD_J4Pb-eWsEtZD1CGjgz/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: www.linkedin.com/in/elliot-routier 
+  github:     # https://github.com/elliotroutier
+  stackoverflow:   # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -45,6 +45,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   youtube:           # https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
+  outlook: er909@bath.ac.uk
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
