@@ -36,7 +36,6 @@ resume-url: https://drive.google.com/file/d/1SY625bdNk7aXD_J4Pb-eWsEtZD1CGjgz/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin:  https://www.linkedin.com/in/elliot-routier/
-  github:     # https://github.com/elliotroutier
   stackoverflow:   # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -97,7 +96,7 @@ skills:
     - Teamwork
     - Time Management
     - Leadership
-    - Interpersonal 
+    - Interpersonal
     
 
 
