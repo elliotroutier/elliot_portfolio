@@ -7,17 +7,21 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Elliot Routier's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Elliot Routier
+headline: Mechanical Engineer at the University of Bath
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Elliot Routier, a Mechanical Engineering student at the University of Bath with a 
+  passion for cutting-edge tech, engineering, and clean design. From designing drone components 
+  for Team Bath Drones to exploring AI-driven robotics during my internship in France, 
+  I thrive at the intersection of creativity and engineering precision. I’m always looking 
+  for my next challenge — whether it's taking part in the Shell Eco Marathon, coding a chess 
+  game from scratch, or designing miniature train parts in CAD.
+  Let's build something remarkable.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
