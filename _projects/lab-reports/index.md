@@ -17,32 +17,35 @@ The goal of these lab reports was to develop my ability to plan and communicate 
 
 ---
 
-## View the full race specs
-<a class="btn" href="/assets/documents/GBR_rules.pdf" target="_blank">📄 View the Full Brief</a>
+## Steam Motor Lab Report
+Compared the real and ideal Rankine cycles using a TD 1050 steam motor. Analysed mechanical losses using the Willans line and evaluated system efficiency through specific steam consumption and a Sankey diagram. Calculated the dryness fraction using a throttling calorimeter.
 
 ---
 
-## My Contributions
-
-1. Led the redesign of the battery pack reducing the pack weight from 6 to 1kg
-
-2. Integrated sensor systems and a new microcontroller for real-time performance tracking
-
-3. Soldered and fitted the microcontroller onto the vehicle
-
-4. Tuned a PID controller for the car's speed control
+## View Steam Motor Instruction Sheet
+<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Steam Motor Instruction Sheet</a>
 
 ---
 
-## View the battery report:
-<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Battery Report</a>
+## View Steam Motor Report
+<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Steam Motor Report</a>
 
 ---
 
-## View the microcontroller report:
-<a class="btn" href="/assets/documents/motor_controller.pdf" target="_blank">📄 View Microcontroller Report</a>
+## Aerofoil Lab Report
+Investigated how pressure distribution and lift coefficient vary with angle of attack for a NACA 2415 aerofoil, both with and without a leading-edge slat. The experiment demonstrated the impact of Reynolds number and slat deployment on delaying stall and increasing lift.
+
+---
+
+## View Aerofoil Instruction Sheet
+<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Aerofoil Instruction Sheet</a>
+
+---
+
+## View Aerofoil report
+<a class="btn" href="/assets/documents/motor_controller.pdf" target="_blank">📄 View Aerofoil Report</a>
 
 ---
 
 ## Final thoughts
-Working with Green Bath Racing gave me hands-on experience in sustainable engineering and real-world vehicle design. I developed a stronger understanding of low-voltage power systems, data-driven decision-making, and cross-functional collaboration — all under the pressure of an international competition setting.
+These two lab experiments deepened my understanding of core mechanical engineering principles — from fluid dynamics and aerofoil behaviour to thermodynamic cycles and energy efficiency. They challenged me to apply theory in a practical setting, interpret real-world data, and communicate technical insights effectively. The skills developed through these experiences continue to shape my approach to engineering analysis and problem-solving.
