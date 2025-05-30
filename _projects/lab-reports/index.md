@@ -28,7 +28,7 @@ Compared the real and ideal Rankine cycles using a TD 1050 steam motor. Analysed
 ---
 
 ## View Steam Motor Report
-<a class="btn" href="/assets/documents/Routier_Elliot_Lab_Report_Steam_Motor" target="_blank">📄 View Steam Motor Report</a>
+<a class="btn" href="/assets/documents/Routier_Elliot_Lab_Report_Steam_Motor.pdf" target="_blank">📄 View Steam Motor Report</a>
 
 ---
 
