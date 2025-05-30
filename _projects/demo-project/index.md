@@ -26,13 +26,19 @@ The objectives for this was project were to
 5. Eject the completed modules
 6. Complete one cycle in under 200 seconds
 7. Limited budget of £20,000
-8. Click here to view the full brief.
+8. The full brief is outlined below:
 <iframe src="/assets/documents/machinedesignbrief.pdf" width="100%" height="600"></iframe>
 
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## Key Deliverables
+Some of the key deliverables included
+- CAD models of the full and sub-assemblies
+- A UML activity diagram to represent system logic
+- A manufacturing operations plan
+- An FMECA and fault tree analysis
+- A physical layout and storyboard to visualise process flow
+
+You can view the full report here:
+<iframe src="/assets/documents/machine_design_report.pdf" width="100%" height="600"></iframe>
 
 
 ## Embedding images 
