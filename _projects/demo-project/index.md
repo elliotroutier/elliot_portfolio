@@ -40,6 +40,9 @@ Some of the key deliverables included
 You can view the full report here:
 <iframe src="/assets/documents/machine_design_report.pdf" width="100%" height="600"></iframe>
 
+You can also view the technical drawings here:
+<iframe src="/assets/documents/machine_design_drawings.pdf" width="100%" height="600"></iframe>
+
 
 ## Embedding images 
 ### External images
