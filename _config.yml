@@ -35,7 +35,7 @@ resume-url: https://drive.google.com/file/d/1SY625bdNk7aXD_J4Pb-eWsEtZD1CGjgz/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: www.linkedin.com/in/elliot-routier 
+  linkedin: https://www.linkedin.com/in/elliot-routier/
   github:     # https://github.com/elliotroutier
   stackoverflow:   # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
