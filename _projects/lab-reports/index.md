@@ -13,7 +13,7 @@ main-image: /data.png
 
 ---
 ## Objectives
-As a Powertrain Engineer for Green Bath Racing, my role focused on designing and optimising components for an ultra-efficient electric vehicle competing in the Shell Eco-marathon. The objective was to minimise energy consumption while maintaining performance and reliability. This involved careful motor selection, sensor integration, and contributing to the vehicle’s telemetry system to monitor performance in real time. 
+The goal of these lab reports was to develop my ability to plan and communicate experimental investigations in a clear and technical format. Each report required accurate data analysis, interpretation of results, and discussion of experimental limitations. I aimed to strengthen my scientific writing, apply theoretical principles to practical setups, and present findings in a structured, reader-friendly way suitable for academic and professional audiences.
 
 ---
 
