@@ -2,17 +2,18 @@
 layout: post
 title: Machine Design - Automated Battery Module Assembly Machine
 description:  This project formed part of the Design, Materials, and Manufacturing module and involved designing a fully automated machine for assembling battery modules intended for use inelectric hovercrafts.
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - CAD
+  - Stress and Strain Analysis
+  - Fatigue and Failure Analysis
+  - Product Selection
+  - Sketching
+  - DFM
+  - UML Activity Diagrams
+  - DFMEA
+  - FTA (Fault Tree Analysis)
 
-main-image: /project2.jpg
+main-image: /machinedesign.jpg
 ---
 
 ---
