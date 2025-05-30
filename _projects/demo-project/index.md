@@ -37,11 +37,24 @@ Some of the key deliverables included
 - An FMECA and fault tree analysis
 - A physical layout and storyboard to visualise process flow
 
-You can view the full report here:
+---
+
+## View the full report:
 <iframe src="/assets/documents/machine_design_report.pdf" width="100%" height="600"></iframe>
 
-You can also view the technical drawings here:
+---
+
+## View the technical drawings:
 <iframe src="/assets/documents/machine_design_drawings.pdf" width="100%" height="600"></iframe>
+
+---
+
+## Final thoughts
+This project challenged me to consider safety, manufacturability, system logic, and cost in a 
+realistic, multi-disciplinary design setting while challenging my CAD skills and time 
+management skills as the project was very short. It was a strong exercise in collaborative
+system engineering, combining creativity with structured problem-solving to deliver a technically
+viable solution. 
 
 
 ## Embedding images 
