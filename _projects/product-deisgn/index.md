@@ -21,7 +21,7 @@ the market to assist elderly/handicapped individuals entering and exiting their 
 ---
 
 ## View the full brief
-<a class="btn" href="/assets/documents/product_design_brief.pdf" target="_blank">📄 View Full Report</a>
+<a class="btn" href="/assets/documents/product_design_brief.pdf" target="_blank">📄 View the Full Brief</a>
 
 ---
 
