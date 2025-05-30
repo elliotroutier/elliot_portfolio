@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+or# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -52,44 +52,53 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
     - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+    - Solidworks
+    - Fusion 360 (Autodesk)
   - category: Prototyping
     tools:
-    - SLA
-    - CNC
+    - Lathe
     - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
     - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - Arduino
+    - Breadboarding
+    - Soldering
+  - category: IT Skills
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - Python
+    - MATLAB
+    - Simulink
+    - JavaScript
+    - HTML / CSS
+    - Git / GitHub (version control)
+    - Word
+    - PowerPoint
+    - Excel
+    - Generative AI
+  - category: Finite Element Analysis
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+    - Ansys
+  - category: Risk Management / Engineering Principles
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - FTA (Fault Tree Analysis)
+    - DFMEA / DFMA
+    - UML Activity Diagrams
+    - DFM (Design For Manufacturing)
+    - Technical Drawings
+  - category: Languages
+    tools:
+    - English (native)
+    - French (fluent)
+    - German (proficient)
+    - Spanish (basic)
+  - category: Professional Skills
+    tools:
+    - Communication
+    - Teamwork
+    - Time Management
+    - Leadership
+    - Interpersonal 
+    
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
