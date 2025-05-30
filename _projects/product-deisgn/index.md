@@ -49,8 +49,7 @@ Deliverables were under the form of 4 posters:
 ---
 
 ## Final thoughts
-This project challenged me to consider safety, manufacturability, system logic, and cost in a 
-realistic, multi-disciplinary design setting while challenging my CAD skills and time 
-management skills as the project was very short. It was a strong exercise in collaborative
-system engineering, combining creativity with structured problem-solving to deliver a technically
-viable solution. 
+I contributed to mechanical design work, CAD modelling, and creating visual 
+materials for the posters. I also supported the requirements definition and final concept 
+evaluation. This project strengthened my ability to deliver clear, user-focused engineering solutions 
+under real-world design constraints.
