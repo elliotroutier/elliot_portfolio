@@ -20,7 +20,7 @@ As a Powertrain Engineer for Green Bath Racing, my role focused on designing and
 ---
 
 ## View the full race specs
-<a class="btn" href="/assets/documents/shaft_design_brief.pdf" target="_blank">📄 View the Full Brief</a>
+<a class="btn" href="/assets/documents/GBR_rules.pdf" target="_blank">📄 View the Full Brief</a>
 
 ---
 
@@ -37,12 +37,12 @@ As a Powertrain Engineer for Green Bath Racing, my role focused on designing and
 ---
 
 ## View the battery report:
-<a class="btn" href="/assets/documents/shaft_design_report.pdf" target="_blank">📄 View Full Report</a>
+<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Battery Report</a>
 
 ---
 
 ## View the microcontroller report:
-<iframe src="/assets/documents/SD86-drawing-assembly.pdf" width="100%" height="600"></iframe>
+<a class="btn" href="/assets/documents/motor_controller.pdf" target="_blank">📄 View Microcontroller Report</a>
 
 ---
 
