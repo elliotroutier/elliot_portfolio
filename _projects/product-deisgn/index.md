@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Product Design - Inclusive Consumer Product Development
-description:  This project was part of the Design, Materials, and Manufacturing module. It 
-involved creating a mechanical product to support older users with mobility challenges, 
-no electronics or digital systems allowed.
+description:  This project was part of the Design, Materials, and Manufacturing module. It involved creating a mechanical product to support older users with mobility challenges, no electronics or digital systems allowed.
 skills: 
   - CAD
   - Material & Manufacturing Process Selection
