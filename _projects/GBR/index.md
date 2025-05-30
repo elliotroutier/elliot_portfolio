@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Green Bath Racing - Powertrain Engineer
-description:  Green Bath Racing (GBR) is a student-led team that designs and builds ultra-efficient 
-electric vehicles to compete in the Shell Eco-marathon, an international competition focused 
-on innovation and energy efficiency. 
+description:  Green Bath Racing (GBR) is a student-led team that designs and builds ultra-efficient electric vehicles to compete in the Shell Eco-marathon, an international competition focused on innovation and energy efficiency. 
 skills: 
   - CAD
   - Telemetry
