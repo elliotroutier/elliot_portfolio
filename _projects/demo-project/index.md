@@ -26,7 +26,8 @@ The objectives for this was project were to
 5. Eject the completed modules
 6. Complete one cycle in under 200 seconds
 7. Limited budget of £20,000
-8. Click here to view the full brief --> <iframe src="_projects/demo-project/machinedesignbrief" width="100%" height="600"></iframe>
+8. Click here to view the full brief.
+<iframe src="_projects/demo-project/machinedesignbrief" width="100%" height="600"></iframe>
 ## Header 2  
 Use this for the header of each section
 ### Header 3 
