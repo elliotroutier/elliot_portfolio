@@ -23,7 +23,7 @@ selection. I performed material selection using merit indices, Ashby charts and 
 ---
 
 ## View the full brief here
-<iframe src="/assets/documents/shaft_design_brief.pdf" width="100%" height="600"></iframe>
+<a class="btn" href="/assets/documents/shaft_design_brief.pdf" target="_blank">📄 View Full Report</a>
 
 ---
 
