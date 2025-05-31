@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Machine Design - Automated Battery Module Assembly Machine
-description:  This project formed part of the Design, Materials, and Manufacturing module and involved designing a fully automated machine for assembling battery modules intended for use inelectric hovercrafts.
+title: Machine Design – Automated Battery Module Assembly Machine
+description: This project formed part of the Design, Materials, and Manufacturing module and involved designing a fully automated machine to assemble battery modules for use in electric hovercrafts.
 skills: 
   - CAD
   - Stress and Strain Analysis
@@ -12,47 +12,54 @@ skills:
   - UML Activity Diagrams
   - DFMEA
   - FTA (Fault Tree Analysis)
-
 main-image: /machinedesign.png
 ---
 
----
-# Objectives
-The objectives for this was project were to 
-1. Unpack cylindrical battery cells
-2. Sort them based on polarity
-3. Place them into carriers
-4. Spot-weld copper strips as electrical connections
-5. Eject the completed modules
-6. Complete one cycle in under 200 seconds
-7. Limited budget of £20,000
-8. The full brief is outlined below:
-<iframe src="/assets/documents/machinedesignbrief.pdf" width="100%" height="600"></iframe>
+## 🛠️ Project Overview
 
-## Key Deliverables
-Some of the key deliverables included
-- CAD models of the full and sub-assemblies
-- A UML activity diagram to represent system logic
-- A manufacturing operations plan
-- An FMECA and fault tree analysis
-- A physical layout and storyboard to visualise process flow
+As part of the Design, Materials, and Manufacturing module, I worked in a team to develop a concept for a fully automated machine that assembles battery modules for an electric hovercraft. The challenge: design a system that could handle every step — from sorting cells to spot-welding connections — under a strict time and budget constraint.
 
 ---
 
-## View the full report:
-<iframe src="/assets/documents/machine_design_report.pdf" width="100%" height="600"></iframe>
+## 🎯 Objectives
+
+The machine had to perform the following tasks:
+1. Unpack cylindrical battery cells  
+2. Sort them by polarity  
+3. Place them into carriers  
+4. Spot-weld copper strips for electrical connectivity  
+5. Eject completed modules  
+6. Complete a full cycle in under 200 seconds  
+7. Stay within a budget of £20,000  
+
+📄 **[Click here to view the full brief (PDF)](/assets/documents/machinedesignbrief.pdf){:target="_blank"}**
 
 ---
 
-## View the technical drawings:
+## 📦 My Contributions & Deliverables
+
+Throughout the project, I contributed to the design and evaluation of the system by producing:
+
+- ✅ **3D CAD models** of the full assembly and critical sub-systems  
+- ✅ **UML activity diagrams** to visualise system logic and task sequencing  
+- ✅ **Manufacturing operations plan** outlining each production stage  
+- ✅ **DFMEA and fault tree analysis** to identify risks and failure modes  
+- ✅ **Storyboard and physical layout** showing process flow and ergonomics  
+
+---
+
+## 📘 View the Full Report  
+📄 **[Open full report in a new tab](/assets/documents/machine_design_report.pdf){:target="_blank"}**
+
+---
+
+## 📐 View the Technical Drawings  
 <iframe src="/assets/documents/machine_design_drawings.pdf" width="100%" height="600"></iframe>
 
 ---
 
-## Final thoughts
-This project challenged me to consider safety, manufacturability, system logic, and cost in a 
-realistic, multi-disciplinary design setting while challenging my CAD skills and time 
-management skills as the project was very short. It was a strong exercise in collaborative
-system engineering, combining creativity with structured problem-solving to deliver a technically
-viable solution. 
+## 💬 Final Thoughts
+
+This project tested my ability to balance creativity with feasibility in a fast-paced, multidisciplinary team. From selecting components to evaluating system logic and risk, I gained hands-on experience in applying **design-for-manufacture (DFM)** principles, safety assessments, and **collaborative problem-solving**. The tight timeframe pushed my CAD and time management skills — and gave me a real taste of system-level mechanical design in a professional setting.
+
 
