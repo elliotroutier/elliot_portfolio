@@ -29,7 +29,9 @@ The blend of hands-on learning and technical research was exactly the challenge 
 
 ---
 
-<iframe src="/assets/documents/machinedesignbrief.pdf" width="100%" height="600"></iframe>
+<p align="center">
+  <img src="/assets/documents/sherpa.png" width="600" alt="CAD preview of UAV design" />
+</p>
 
 ---
 
@@ -59,13 +61,8 @@ Helped raise awareness across departments on how AI could enhance Sherpa’s tec
 
 ---
 
-## View the full report:
+## View my internship full report:
 <iframe src="/assets/documents/machine_design_report.pdf" width="100%" height="600"></iframe>
-
----
-
-## View the technical drawings:
-<iframe src="/assets/documents/machine_design_drawings.pdf" width="100%" height="600"></iframe>
 
 ---
 
