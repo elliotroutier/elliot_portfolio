@@ -16,12 +16,15 @@ title: Elliot Routier's Portfolio # This is what shows up in the tab of the brow
 name: Elliot Routier
 headline: Mechanical Engineer at the University of Bath
 description: > # do not remove this line — it folds newlines into spaces - 
-  I'm Elliot Routier, a Mechanical Engineering student at the University of Bath with a passion for clean, purposeful design and emerging technologies. Whether I'm designing drone components for Team Bath Drones, exploring AI in robotics, or building a chess game from scratch, I thrive in creative, technical and real-world environments.
+  I'm Elliot Routier, a Mechanical Engineering student at the **University of Bath**, with a passion for clean, purposeful design and emerging technologies. Whether I'm designing drone components for Team Bath Drones, exploring AI in robotics during my internship in France, or building a chess game from scratch, I thrive in creative, technical, and real-world environments.
 
-  Outside of engineering, I’m an active member of Green Bath Racing, contributing to powertrain development for our Shell Eco-marathon vehicle, and I serve as Secretary of the SPI Sailing Society, where I organise events and coordinate a regatta with over 30 universities across Europe. I’ve also been a competitive swimmer for years, and I find that the discipline and rhythm of sport help balance the demands of engineering.
+  Outside of engineering, I’m an active member of **Green Bath Racing**, contributing to powertrain development for our Shell Eco-marathon vehicle. I also serve as **Secretary of the SPI Sailing Society**, where I organise events and coordinate a regatta involving over 30 universities across Europe.
 
-  I’m driven by projects that challenge me mentally, physically, and creatively. I'm always eager to learn new tools, work with new people, and step beyond my comfort zone. Thanks for taking the time to explore the person behind the projects.
+  I’ve been a **competitive swimmer for years**, and I find that the discipline and rhythm of sport help balance the demands of engineering.
 
+  I’m driven by projects that challenge me mentally, physically, and creatively. I'm always eager to learn new tools, work with new people, and step beyond my comfort zone.
+  
+  Thanks for taking the time to explore the person behind the projects.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/elliot.jpg
 
