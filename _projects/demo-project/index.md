@@ -40,11 +40,11 @@ The machine had to perform the following tasks:
 
 Throughout the project, I contributed to the design and evaluation of the system by producing:
 
-- ✅ **3D CAD models** of the full assembly and critical sub-systems  
-- ✅ **UML activity diagrams** to visualise system logic and task sequencing  
-- ✅ **Manufacturing operations plan** outlining each production stage  
-- ✅ **DFMEA and fault tree analysis** to identify risks and failure modes  
-- ✅ **Storyboard and physical layout** showing process flow and ergonomics  
+✅ **3D CAD models** of the full assembly and critical sub-systems  
+✅ **UML activity diagrams** to visualise system logic and task sequencing  
+✅ **Manufacturing operations plan** outlining each production stage  
+✅ **DFMEA and fault tree analysis** to identify risks and failure modes  
+✅ **Storyboard and physical layout** showing process flow and ergonomics  
 
 ---
 
