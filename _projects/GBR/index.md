@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Green Bath Racing - Powertrain Engineer
-description:  Green Bath Racing (GBR) is a student-led team that designs and builds ultra-efficient electric vehicles to compete in the Shell Eco-marathon, an international competition focused on innovation and energy efficiency. 
+title: Green Bath Racing – Powertrain Engineer
+description: Green Bath Racing is a student-led team designing ultra-efficient electric vehicles for the Shell Eco-marathon. The competition focuses on pushing the limits of energy efficiency through innovative vehicle design.
 skills: 
   - CAD
   - Telemetry
@@ -9,43 +9,44 @@ skills:
   - Motor Selection
   - Power Efficiency
   - Sustainable Vehicle Design
-
 main-image: /GBR.jpg
 ---
 
----
-## Objectives
-As a Powertrain Engineer for Green Bath Racing, my role focused on designing and optimising components for an ultra-efficient electric vehicle competing in the Shell Eco-marathon. The objective was to minimise energy consumption while maintaining performance and reliability. This involved careful motor selection, sensor integration, and contributing to the vehicle’s telemetry system to monitor performance in real time. 
+## 🛠️ Project Overview
+
+As a Powertrain Engineer for Green Bath Racing, I helped design and optimise systems for an ultra-efficient electric vehicle competing in the Shell Eco-marathon. The primary challenge was to minimise energy consumption while maintaining mechanical performance and electrical reliability.
 
 ---
 
-## View the full race specs
-<a class="btn" href="/assets/documents/GBR_rules.pdf" target="_blank">📄 View the Full Brief</a>
+## 🎯 Objectives
+
+- Develop and optimise a lightweight powertrain  
+- Integrate real-time telemetry and monitoring  
+- Reduce weight and improve energy efficiency  
+- Support competition testing under real constraints  
+
+📄 **[View race specification document (PDF)](/assets/documents/GBR_rules.pdf){:target="_blank"}**
 
 ---
 
-## My Contributions
+## 🧩 My Contributions
 
-1. Led the redesign of the battery pack reducing the pack weight from 6 to 1kg
-
-2. Integrated sensor systems and a new microcontroller for real-time performance tracking
-
-3. Soldered and fitted the microcontroller onto the vehicle
-
-4. Tuned a PID controller for the car's speed control
+✅ Redesigned the battery pack, cutting weight from 6 kg to 1 kg  
+✅ Integrated sensor systems and a new microcontroller  
+✅ Installed and soldered the microcontroller to the vehicle  
+✅ Tuned the PID controller to optimise speed control
 
 ---
 
-## View the battery report:
-<a class="btn" href="/assets/documents/battery_layout_and_design.pdf" target="_blank">📄 View Battery Report</a>
+## 📘 Technical Reports
+
+📄 **[Battery Pack Report – View PDF](/assets/documents/battery_layout_and_design.pdf){:target="_blank"}**  
+📄 **[Microcontroller Report – View PDF](/assets/documents/motor_controller.pdf){:target="_blank"}**
 
 ---
 
-## View the microcontroller report:
-<a class="btn" href="/assets/documents/motor_controller.pdf" target="_blank">📄 View Microcontroller Report</a>
+## 💬 Final Thoughts
 
----
+This hands-on experience with sustainable engineering deepened my knowledge of electrical systems, real-time telemetry, and cross-functional teamwork — all within the high-pressure environment of an international competition.
 
-## Final thoughts
-Working with Green Bath Racing gave me hands-on experience in sustainable engineering and real-world vehicle design. I developed a stronger understanding of low-voltage power systems, data-driven decision-making, and cross-functional collaboration — all under the pressure of an international competition setting.
 
