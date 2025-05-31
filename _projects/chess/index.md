@@ -24,13 +24,12 @@ This project began as a personal challenge to deepen my understanding of Python 
 ---
 
 ## Note
-1. Open the link to dropbox
-2. Download the zip file
-3. Unpack the folders within
-4. Open VS code or jupyter or spyder...
-5. Execute and run the main.py file
-6. Ensure you have pygame installed
-7. Have fun!
+1. Download the zip file
+2. Unpack the folders locally
+3. Open VS code or jupyter or spyder...
+4. Execute and run the main.py file
+5. Ensure you have pygame installed
+6. Have fun!
 
 ---
 
