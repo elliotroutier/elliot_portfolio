@@ -12,7 +12,7 @@ skills:
   - Mechanical Assembly
   - Electrical Assembly
 
-main-image: /SMR.png
+main-image: /SMR.jpg
 ---
 
 ---
@@ -62,7 +62,7 @@ Helped raise awareness across departments on how AI could enhance Sherpa’s tec
 ---
 
 ## View my internship report:
-<a class="btn" href="/assets/documents/SMR_report.pdf" target="_blank">📄 View my internship report</a>
+<a class="btn" href="/assets/documents/Elliot_Routier_Internship_Report.pdf" target="_blank">📄 View my internship report</a>
 
 ---
 
