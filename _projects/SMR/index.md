@@ -12,7 +12,7 @@ skills:
   - Mechanical Assembly
   - Electrical Assembly
 
-main-image: /SMR.jpg
+main-image: /sherpa.jpg
 ---
 
 ---
@@ -30,7 +30,7 @@ The blend of hands-on learning and technical research was exactly the challenge 
 ---
 
 <p align="center">
-  <img src="/assets/documents/sherpa.jpg" width="600" alt="Assembly of an AMR" />
+  <img src="/assets/documents/SMR.jpg" width="600" alt="Assembly of an AMR" />
 </p>
 
 ---
