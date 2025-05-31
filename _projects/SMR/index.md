@@ -30,7 +30,7 @@ The blend of hands-on learning and technical research was exactly the challenge 
 ---
 
 <p align="center">
-  <img src="/assets/documents/sherpa.png" width="600" alt="Assembly of an AMR" />
+  <img src="/assets/documents/sherpa.jpg" width="600" alt="Assembly of an AMR" />
 </p>
 
 ---
