@@ -61,8 +61,8 @@ Helped raise awareness across departments on how AI could enhance Sherpa’s tec
 
 ---
 
-## View my internship full report:
-<iframe src="/assets/documents/machine_design_report.pdf" width="100%" height="600"></iframe>
+## View my internship report:
+<a class="btn" href="/assets/documents/SMR_report.pdf" target="_blank">📄 View my internship report</a>
 
 ---
 
