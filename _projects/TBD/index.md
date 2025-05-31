@@ -1,45 +1,51 @@
 ---
 layout: post
 title: Team Bath Drones – Mechanical Design for UAVs
-description:  As a member of Team Bath Drones, I contribute to the design and development of our UAV for the IMechE UAS Challenge. My work focuses on CAD modelling and mechanical systems, including chassis modifications and payload deployment mechanisms, all within a highly collaborative and competition-driven environment. 
+description: Team Bath Drones competes in the IMechE UAS Challenge. I contribute to the design of structural and functional UAV components — from chassis reinforcements to payload systems — in a high-pressure team environment.
 skills: 
   - CAD
   - Mechanical Design
   - Collaboration
-  - Rapid Prototyiping
+  - Rapid Prototyping
   - DFMA
-
 main-image: /TBD.jpg
 ---
 
----
-## Objectives
-As a Mechanical Design Engineer for Team Bath Drones, my role centred on developing structural and functional components for our UAV, designed to compete in the IMechE UAS Challenge. The objective was to create a lightweight, modular, and reliable drone capable of autonomous payload delivery. My work involved CAD modelling of key subsystems such as chassis reinforcements and trap door mechanisms, ensuring structural integrity while enabling mission-specific functionality. I also contributed to team design reviews and iterative prototyping to refine system performance under competition constraints.
+## 🛠️ Project Overview
+
+As part of Team Bath Drones, I focus on the mechanical design of our competition UAV. My contributions aim to maximise structural integrity and modularity while enabling precise payload deployment — all within strict competition rules.
 
 ---
 
-## View the competition rules
-<a class="btn" href="/assets/documents/TBD_rules.pdf" target="_blank">📄 View the competition rules</a>
+## 🎯 Objectives
+
+- Design a UAV chassis for autonomous flight and payload release  
+- Ensure mechanical robustness and easy assembly  
+- Support CAD integration with electronics and avionics  
+- Follow UAS Challenge technical rules and safety standards  
+
+📄 **[View UAS Competition Rules (PDF)](/assets/documents/TBD_rules.pdf){:target="_blank"}**
 
 ---
 
-## My Contributions
+## 🧩 My Contributions
 
-1. Designed UAV chassis modifications and payload bay in CAD
-
-2. Developed a trap door mechanism for automated payload release
-
-3. Applied DFMA principles to optimise assembly and reliability
+✅ Designed structural chassis modifications and the payload bay in CAD  
+✅ Developed a trap door mechanism for automated payload release  
+✅ Applied DFMA principles to simplify assembly and boost reliability  
 
 ---
 
-## View the 2024 CAD model of PHOENIX
+## 📸 View the 2024 CAD Model of PHOENIX
+
 <p align="center">
   <img src="/assets/documents/phoenix.png" width="600" alt="CAD preview of UAV design" />
 </p>
 
 ---
 
-## Final thoughts
-Working with Team Bath Drones gave me hands-on experience in UAV design under real competition constraints. I developed practical skills in CAD, mechanical integration, and collaborative engineering, while contributing to a project that demanded precision, innovation, and cross-functional teamwork. This experience strengthened my confidence in applying engineering principles to fast-paced, real-world challenges.
+## 💬 Final Thoughts
+
+Working on this project taught me the value of fast-paced iteration, cross-disciplinary teamwork, and precision design under pressure. I’ve grown more confident in applying mechanical principles to practical UAV systems built for real-world missions.
+
 
