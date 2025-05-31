@@ -18,11 +18,6 @@ This project began as a personal challenge to deepen my understanding of Python 
 
 ---
 
-## Note
-The game isn't perfected and does not handle check states or castling very well - aside from which the game runs very smoothly.
-
----
-
 ## Download the chess files to run the code yourself
 <a class="btn" href="https://www.dropbox.com/scl/fi/pf5g12n2b5hllcjk9f2vw/CHESS.zip?rlkey=moib05y5lkxb0y3o900tlckel&st=z542yp8q&dl=1" target="_blank">♟️ Download Chess Game Files</a>
 
