@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Product Design - Inclusive Consumer Product Development
-description:  This project was part of the Design, Materials, and Manufacturing module. It involved creating a mechanical product to support older users with mobility challenges, no electronics or digital systems allowed.
+title: Product Design – Inclusive Consumer Product Development
+description: This project was part of the Design, Materials, and Manufacturing module. It involved creating a mechanical product to support older users with mobility challenges — with no electronics or digital systems allowed.
 skills: 
   - CAD
   - Materials & Manufacturing Process Selection
@@ -9,53 +9,60 @@ skills:
   - Iteration
   - Prototyping
   - Sketching
-
 main-image: /product_design.png
 ---
 
----
-## Objectives
-To select a real-world user scenario and developed a product to address the gap in 
-the market to assist elderly/handicapped individuals entering and exiting their vehicles.
+## 🛠️ Project Overview
+
+This project involved developing a practical, user-focused product to assist older adults with limited mobility — specifically with entering and exiting vehicles. The brief required a **purely mechanical solution**, challenging us to blend thoughtful ergonomics with realistic manufacturing and sustainability constraints.
 
 ---
 
-## View the full brief
-<a class="btn" href="/assets/documents/product_design_brief.pdf" target="_blank">📄 View the Full Brief</a>
+## 🎯 Objectives
+
+- Select a real-world user group  
+- Identify a mobility-related challenge  
+- Develop a solution with no electronics or software  
+- Ensure the design is feasible, manufacturable, and environmentally conscious  
+
+📄 **[Click here to view the full brief (PDF)](/assets/documents/product_design_brief.pdf){:target="_blank"}**
 
 ---
 
-## Key Deliverables
-Deliverables were under the form of 4 posters:
-- POSTER 1: User research & PDS-formatted requirements list   
-- POSTER 2: Concept generation, evaluation, and hand-drawn sketches   
-- POSTER 3: Final CAD design, exploded views, and function explanation 
-- POSTER 4: Material selection, manufacturing plan, and Eco-audit-based environmental 
+## 🧩 What I Delivered
+
+This was a poster-based project, submitted through four structured A1 panels:
+
+✅ **Poster 1** – User research and a structured PDS (Product Design Specification)  
+✅ **Poster 2** – Concept generation, evaluation, and hand-drawn sketches  
+✅ **Poster 3** – Final CAD model with exploded views and functional breakdown  
+✅ **Poster 4** – Material selection, manufacturing plan, and environmental audit  
 
 ---
 
-## View POSTER 1:
+## 📜 View Posters
+
+**Poster 1**  
 <iframe src="/assets/documents/PD-28_Poster1.pdf" width="100%" height="600"></iframe>
 
 ---
 
-## View POSTER 2:
+**Poster 2**  
 <iframe src="/assets/documents/PD-28_Poster2.pdf" width="100%" height="600"></iframe>
 
 ---
 
-## View POSTER 3:
+**Poster 3**  
 <iframe src="/assets/documents/PD-28_Poster3.pdf" width="100%" height="600"></iframe>
 
 ---
 
-## View POSTER 4:
+**Poster 4**  
 <iframe src="/assets/documents/PD-28_Poster4.pdf" width="100%" height="600"></iframe>
 
 ---
 
-## Final thoughts
-I contributed to mechanical design work, CAD modelling, and creating visual 
-materials for the posters. I also supported the requirements definition and final concept 
-evaluation. This project strengthened my ability to deliver clear, user-focused engineering solutions 
-under real-world design constraints.
+## 💬 Final Thoughts
+
+This project taught me how to translate user needs into practical, manufacturable design under real constraints. I contributed across the entire workflow — from early research and CAD modelling to sustainability considerations and presentation. It sharpened my design judgment and pushed me to think critically about accessibility and real-world application.
+
