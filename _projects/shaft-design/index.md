@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Shaft Design - Forklift Transmission for Vehicle
-description:  This shaft design project formed the first part of my Design Materials and Manufacturing module — an 8-week team challenge to develop a power transmission sub-assembly for a custom electric forklift operating in a stone quarry near Bath. I was responsible for load analysis, material selection, and technical documentation.
+title: Shaft Design – Forklift Transmission Subassembly
+description: This shaft design project formed the first part of my Design, Materials, and Manufacturing module — an 8-week team challenge to develop a power transmission sub-assembly for a custom electric forklift operating in a stone quarry near Bath.
 skills: 
   - CAD
   - Material Selection
@@ -11,45 +11,56 @@ skills:
   - Keyway Design
   - Bearing Selection
   - Stress Concentration Handling
-
 main-image: /shaft_design.png
 ---
 
----
-## Objectives
-The project was grounded in real world engineering constraints, including the need to lift 1-tonne stone blocks, achieve long service life (10 years, 12 hours/day), and meet tight cost and sustainability targets. Working as part of a team, we developed and iterated a complete shaft design including chain drives, bearings, keyways, and circlips. My analysis involved detailed loading calculations, bending moment and torque diagrams, stress analysis, and component 
-selection. I performed material selection using merit indices, Ashby charts and assessed manufacturing costs. 
+## 🛠️ Project Overview
+
+This 8-week project tasked us with designing a power transmission shaft sub-assembly for a forklift operating in demanding quarry conditions. The shaft needed to meet strict performance, cost, and sustainability requirements — making it a highly realistic engineering challenge.
 
 ---
 
-## View the full brief
-<a class="btn" href="/assets/documents/shaft_design_brief.pdf" target="_blank">📄 View the Full Brief</a>
+## 🎯 Objectives
+
+- Lift and position 1-tonne stone blocks  
+- Ensure 10+ years of life (12 hours/day)  
+- Meet cost and sustainability targets  
+- Model and analyse torque, stress, and fatigue  
+- Include chain drives, keyways, bearings, and circlips  
+
+📄 **[Click here to view the full brief (PDF)](/assets/documents/shaft_design_brief.pdf){:target="_blank"}**
 
 ---
 
-##  Deliverables
-- A full technical report outlining analysis and decision-making
-- Detailed 2D drawings of the shaft and sub-assembly
-- CAD models, torque and moment diagrams
-- Bill of materials and component justifications
+## 🧩 My Contributions
+
+✅ Load and torque analysis using moment and stress diagrams  
+✅ CAD modelling and technical drawing of full assembly  
+✅ Material selection using Ashby charts and merit indices  
+✅ Cost and manufacturability analysis  
+✅ Documentation of system logic and design decisions  
 
 ---
 
-## View the report:
-<a class="btn" href="/assets/documents/shaft_design_report.pdf" target="_blank">📄 View Full Report</a>
+## 📘 View Report  
+📄 **[Open full report in a new tab](/assets/documents/shaft_design_report.pdf){:target="_blank"}**
 
 ---
 
-## View the assembly drawing:
+## 📐 Technical Drawings
+
+**Assembly Drawing**  
 <iframe src="/assets/documents/SD86-drawing-assembly.pdf" width="100%" height="600"></iframe>
 
 ---
 
-## View the part drawing of the shaft:
+**Shaft Part Drawing**  
 <iframe src="/assets/documents/SD86-drawing-shaft.pdf" width="100%" height="600"></iframe>
 
 ---
 
-## Final thoughts
-This project strengthened my ability to balance analytical design with practical manufacturing constraints. It deepened my appreciation for real-world complexity in seemingly “simple” components like shafts — a lesson I’ll carry into industry placements and beyond.
+## 💬 Final Thoughts
+
+This project deepened my understanding of shaft mechanics, stress concentration, and mechanical integrity. It pushed me to balance **analytical precision with practical manufacturability** and gave me a better appreciation of how each component fits into a real-world system. It also highlighted the importance of time management and cross-functional collaboration in a fast-paced design process.
+
 
