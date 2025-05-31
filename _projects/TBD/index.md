@@ -35,7 +35,7 @@ As a Mechanical Design Engineer for Team Bath Drones, my role centred on develop
 
 ## View the 2024 CAD model of PHOENIX
 <p align="center">
-  <img src="/assets/images/tbd/phoenix.png" width="600" alt="CAD preview of UAV design" />
+  <img src="/assets/documents/phoenix.png" width="600" alt="CAD preview of UAV design" />
 </p>
 
 ---
