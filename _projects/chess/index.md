@@ -9,7 +9,7 @@ skills:
   - Testing
   - User Interface Design
 
-main-image: /chess.jpg
+main-image: /chess.png
 ---
 
 ---
