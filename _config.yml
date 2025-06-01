@@ -16,13 +16,13 @@ title: Elliot Routier's Portfolio # This is what shows up in the tab of the brow
 name: Elliot Routier
 headline: Mechanical Engineer at the University of Bath
 description: > 
-  <p>I'm <strong>Elliot Routier</strong>, a Mechanical Engineering student at the <strong>University of Bath</strong>, with a passion for design and emerging technologies. Whether I'm designing drone components for Team Bath Drones, exploring AI in robotics, or building a chess game from scratch, I thrive in creative, technical, and real-world environments.</p>
+  <p>With a passion for design and technologies, I love designing drone components for Team Bath Drones, exploring AI in robotics, and building a chess game from scratch. I thrive in creative, technical, and real-world environments.</p>
 
-  <p>Outside of engineering, I’m an active member of <strong>Green Bath Racing</strong>, contributing to powertrain development for our Shell Eco-marathon vehicle. I also serve as <strong>Secretary of the SPI Sailing Society</strong>, where I organise events and coordinate a regatta involving over 30 universities across Europe.</p>
+  <p>Outside of engineering, I am an active member of <strong>Green Bath Racing</strong>, contributing to powertrain development for our Shell Eco-marathon vehicle. I also serve as <strong>Secretary</strong> of the SPI Sailing Society, where I organise events and coordinate a regatta involving over 30 universities across Europe.</p>
 
-  <p>I’ve been a <strong>competitive swimmer for years</strong>, and I find that the discipline and rhythm of sport help balance the demands of engineering.</p>
+  <p>I have been a <strong>competitive swimmer</strong> for many years and still compete to this day; I find that the discipline and rhythm of sport help balance the demands of engineering.</p>
 
-  <p>I’m driven by projects that challenge me mentally, physically, and creatively. I'm always eager to learn new tools, work with new people, and step beyond my comfort zone. Thanks for taking the time to explore the person behind the projects.</p>
+  <p>I’m driven by projects that challenge me mentally, physically, and creatively. I'm always eager to learn new tools, work with new people, and step beyond my comfort zone. Thank you for taking the time to explore the person behind the projects.</p>
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/elliot.jpg
@@ -108,13 +108,14 @@ skills:
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
-  text: "#2c3333"
-  border: "#e0f2ef"
-  link: "#40b3a2"
-  highlight: "#2a9d8f"
-  background: "#f7fbfa"
-  light_background: "#f0f9f7"
+colors: 
+  text: "#2b2d42"             # Deep charcoal (less harsh than pure black)
+  border: "#e0e0e0"           # Softer neutral border
+  link: "#ff6b6b"             # Warm coral red (eye-catching, friendly)
+  highlight: "#ff4757"        # Strong coral for buttons or hover effects
+  background: "#fafafa"       # Light warm grey-white (more calming than pure white)
+  light_background: "#fdf6f0" # Subtle peach-beige (adds warmth to sections)
+
 
 # A few examples. 
 basic theme:
