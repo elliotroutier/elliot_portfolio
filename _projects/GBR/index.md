@@ -43,7 +43,7 @@ As a Powertrain Engineer for Green Bath Racing, I helped design and optimise sys
   <img src="/assets/documents/CAD_mount.png" width="600" alt="CAD preview of mudguard mount" />
 </p>
 <p align="center">
-  <img src="/assets/documents/3D_print.png" width="600" alt="3D print of the mount" />
+  <img src="/assets/documents/3D_print.jpg" width="600" alt="3D print of the mount" />
 </p>
 
 
