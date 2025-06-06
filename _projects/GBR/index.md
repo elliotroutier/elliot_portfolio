@@ -40,9 +40,17 @@ As a Powertrain Engineer for Green Bath Racing, I helped design and optimise sys
 
 ## 3D Printed Mounts for Vehicle Mudguard
 <iframe src="/assets/documents/mudgard_mounting2-1.pdf" width="100%" height="600"></iframe>
-<p align="center">
-  <img src="/assets/documents/3D_print.jpg" width="600" alt="3D print of the mount" />
-</p>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
+  <div style="text-align: center;">
+    <img src="/assets/documents/3D_print.jpg" style="width: 400px;" alt="3D print of the mount">
+    <p style="margin-top: 8px;">3D print of the mount</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/documents/wheel_assembly.png" style="width: 400px;" alt="CAD of the mount on the wheel">
+    <p style="margin-top: 8px;">CAD of the mount on the wheel</p>
+  </div>
+</div>
+
 
 
 ---
