@@ -25,7 +25,7 @@ The atmosphere at the track was electric — from scrutineering and strategy pla
 
 ---
 
-<div style="text-align: center; margin-top: 20px;"> <img src="/assets/documents/shell2025_me.jpg" style="height: 400px; object-fit: cover;" alt="Team photo or vehicle on track – to be added"> <p style="margin-top: 8px;">Placeholder for team photo or vehicle at the Silesia Ring</p> </div>
+<div style="text-align: center; margin-top: 20px;"> <img src="/assets/documents/shell2025_me.JPG" style="height: 400px; object-fit: cover;" alt="Team photo or vehicle on track – to be added"> <p style="margin-top: 8px;">Placeholder for team photo or vehicle at the Silesia Ring</p> </div>
 
 ---
 
