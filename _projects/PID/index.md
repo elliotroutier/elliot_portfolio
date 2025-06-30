@@ -54,8 +54,8 @@ A Fast Fourier Transform helped select a 20 Hz cut-off frequency, and multiple
 - **FIR (Kaiser)** – best performance, minimal lag  
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/assets/documents/filter_comparison_placeholder.jpg" style="height: 400px; object-fit: cover;" alt="Filter comparison plot">
-  <p style="margin-top: 8px;">Placeholder for filter comparison plot</p>
+  <img src="/assets/documents/filter.png" style="height: 400px; object-fit: cover;" alt="Filter comparison plot">
+  <p style="margin-top: 8px;"></p>
 </div>
 
 ---
