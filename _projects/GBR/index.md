@@ -9,7 +9,7 @@ skills:
   - Motor Selection
   - Power Efficiency
   - Sustainable Vehicle Design
-main-image: /GBR.jpg
+main-image: /GBR (2).jpg
 ---
 
 ## 🛠️ Project Overview
