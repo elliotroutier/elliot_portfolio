@@ -39,8 +39,8 @@ The mechanical setup included a cart rolling along rails, with distance measured
 - WD40 applied to minimise friction in wheels
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/assets/documents/positioning_system_placeholder.jpg" style="height: 400px; object-fit: cover;" alt="System on test bench">
-  <p style="margin-top: 8px;">Placeholder for test bench image of control system</p>
+  <img src="/assets/documents/Mechanical System.png" style="height: 400px; object-fit: cover;" alt="System on test bench">
+  <p style="margin-top: 8px;"></p>
 </div>
 
 ---
