@@ -18,6 +18,17 @@ As a Powertrain Engineer for Green Bath Racing, I helped design and optimise sys
 
 ---
 
+## 🏁 Shell Eco-marathon 2025 – Silesia Ring, Poland
+The highlight of the year was travelling with Green Bath Racing to the Shell Eco-marathon 2025, held at the Silesia Ring in Poland. Competing against top engineering teams from across Europe, we were proud to finish 4th overall, a testament to the months of design, testing, and teamwork.
+
+The atmosphere at the track was electric — from scrutineering and strategy planning to the final laps. This experience not only tested our technical ability but also bonded the team through long days, late nights, and a shared passion for sustainable innovation.
+
+---
+
+<div style="text-align: center; margin-top: 20px;"> <img src="/assets/documents/shell2025_me.jpg" style="height: 400px; object-fit: cover;" alt="Team photo or vehicle on track – to be added"> <p style="margin-top: 8px;">Placeholder for team photo or vehicle at the Silesia Ring</p> </div>
+
+---
+
 ## 🎯 Objectives
 
 - Develop and optimise a lightweight powertrain  
