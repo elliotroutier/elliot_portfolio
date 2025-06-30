@@ -9,7 +9,7 @@ skills:
   - Arduino
   - Sensor Calibration
   - Signal Filtering
-main-image: /assets/documents/control_cover_placeholder.jpg
+main-image: /assets/documents/System.jpg
 ---
 
 ## 🛠️ Project Overview
