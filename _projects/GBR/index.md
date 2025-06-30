@@ -25,7 +25,11 @@ The atmosphere at the track was electric — from scrutineering and strategy pla
 
 ---
 
-<div style="text-align: center; margin-top: 20px;"> <img src="/assets/documents/shell2025_me.JPG" style="height: 800px; object-fit: cover;" alt="Team photo or vehicle on track – to be added"> <p style="margin-top: 8px;" </div>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/assets/documents/shell2025_me.JPG" style="height: 800px; object-fit: cover;" alt="Team photo or vehicle on track – to be added">
+  <p style="margin-top: 8px;">Shell Eco-marathon 2025</p>
+</div>
+
 
 ---
 
