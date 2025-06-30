@@ -85,8 +85,8 @@ Final system performance:
 - **Phase margin:** 75°  
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/assets/documents/simulated_response_placeholder.jpg" style="height: 400px; object-fit: cover;" alt="Final system response plot">
-  <p style="margin-top: 8px;">Placeholder for response simulation plot</p>
+  <img src="/assets/documents/response.png" style="height: 400px; object-fit: cover;" alt="Final system response plot">
+  <p style="margin-top: 8px;"></p>
 </div>
 
 ---
